@@ -17,7 +17,11 @@
 
    Common commands include npm start, node app.js, or a custom script defined in the package.json file.
   
-   Access the Application: Once the application is running, open a web browser and go to http://localhost:<port> where <port> is the port number on which your 
+   Access the Application: Once the application is running, open a web browser and go to
+   
+   http://localhost:<port>
+   
+   where <port> is the port number on which your 
    application is running.
 
    The port number is typically specified in the application's configuration or output when starting the server.
