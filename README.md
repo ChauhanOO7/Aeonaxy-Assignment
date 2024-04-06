@@ -4,6 +4,7 @@
 # download backend and frontend folder on your local system with the help of  git clone <repository_url>
 
 1. Backend:
+   
    first start with Backend.
    Steps:
    Navigate to the Project Directory: Use the cd command to navigate to the directory where your Node.js application is located.
@@ -15,7 +16,7 @@
    Access the Application: Once the application is running, open a web browser and go to http://localhost:<port> where <port> is the port number on which your 
    application is running. The port number is typically specified in the application's configuration or output when starting the server.
 
-2. Frontend:
+3. Frontend:
    Now start Frontend.
    Steps:
    Navigate to the Project Directory: Use the cd command to navigate to the directory where your React application is located.
