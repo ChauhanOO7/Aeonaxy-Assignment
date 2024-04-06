@@ -9,46 +9,46 @@
    
    Steps:
    
-   Navigate to the Project Directory: Use the cd command to navigate to the directory where your Node.js application is located.
+   1. Navigate to the Project Directory: Use the cd command to navigate to the directory where your Node.js application is located.
   
-   Install Dependencies: If the application has dependencies listed in a package.json file,run npm install to install them.
+   2. Install Dependencies: If the application has dependencies listed in a package.json file,run npm install to install them.
   
-   Start the Application: Run the Node.js application.
+   3. Start the Application: Run the Node.js application.
 
-   Common commands include npm start, node app.js, or a custom script defined in the package.json file.
+      Common commands include npm start, node app.js, or a custom script defined in the package.json file.
   
-   Access the Application: Once the application is running, open a web browser and go to
+   4. Access the Application: Once the application is running, open a web browser and go to
    
-   http://localhost:port
+      http://localhost:port
    
-   where <port> is the port number on which your 
-   application is running.
+      where <port> is the port number on which your 
+      application is running.
 
-   The port number is typically specified in the application's configuration or output when starting the server.
+      The port number is typically specified in the application's configuration or output when starting the server.
 
 3. Frontend:
    Now start Frontend.
    
    Steps:
    
-   Navigate to the Project Directory: Use the cd command to navigate to the directory where your React application is located.
+   1. Navigate to the Project Directory: Use the cd command to navigate to the directory where your React application is located.
   
-   Install Dependencies: If the application has dependencies listed in a package.json file, run npm install to install them.
+   2. Install Dependencies: If the application has dependencies listed in a package.json file, run npm install to install them.
    
-     Use npm or yarn to install the project dependencies.
+        Use npm or yarn to install the project dependencies.
    
-        npm install
+           npm install
    
-        or
+           or
    
-        yarn install
+           yarn install
    
-   Start the Development Server: After installing dependencies, you can start the development server.
+   4. Start the Development Server: After installing dependencies, you can start the development server.
    
        npm start
    
-   This command starts the development server and opens your default web browser to display the React application. If it doesn't open automatically, you can   
-   navigate to http://localhost:3000 in your browser.
+      This command starts the development server and opens your default web browser to display the React application. If it doesn't open automatically, you can   
+      navigate to http://localhost:3000 in your browser.
 
 
 # Important Note:
