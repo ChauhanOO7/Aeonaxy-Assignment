@@ -19,7 +19,7 @@
   
    Access the Application: Once the application is running, open a web browser and go to
    
-   http://localhost:<port>
+   http://localhost:port
    
    where <port> is the port number on which your 
    application is running.
