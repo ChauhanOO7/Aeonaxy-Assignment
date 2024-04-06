@@ -1,6 +1,8 @@
 # Aeonaxy-Assignment
 #Install React,Node.js,Express.js and Mongodb.
 
+deployed link -: https://dulcet-starlight-b3dc39.netlify.app/
+
 # download backend and frontend folder on your local system with the help of  git clone <repository_url>
 
 1. Backend:
